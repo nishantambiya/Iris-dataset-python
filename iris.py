@@ -1,6 +1,6 @@
 #import iris dataset from sklearn.datasets
 from sklearn.datasets import load_iris
-import numpy as np
+
 #import decision tree classifier
 from sklearn import tree
 
